@@ -1,0 +1,40 @@
+.container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    
+}
+
+main{
+    background-color: rgb(198, 215, 231);
+    color: gray;
+    text-align: center;
+    justify-content: center;
+
+    
+}
+.octo{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: space-evenly;
+    margin: 10px;
+    padding: 10px;
+}
+.octo img{
+    height: 200px;
+}
+
+#section1{
+    background-color: turquoise;
+}
+
+#section2{
+    background-color: pink;
+}
+
+#section3{
+    background-color: whitesmoke;
+}
